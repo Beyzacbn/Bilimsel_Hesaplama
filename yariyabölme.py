@@ -1,3 +1,5 @@
+#yariya bölme yöntemiyle köke yaklasiyoruz.
+
 def f(x):
     return (x**2-4*x+3)
 
